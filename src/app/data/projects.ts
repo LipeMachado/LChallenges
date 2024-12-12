@@ -11,7 +11,7 @@ export const BoraCodarProjects = [
     "title": "Desafio 1",
     "description": "Cards de player de musica",
     "link": "/bora-codar/desafio-1-player-de-musica"
-  }
+  },
 ]
 
 export const Projects = [

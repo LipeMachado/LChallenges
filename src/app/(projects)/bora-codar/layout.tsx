@@ -1,4 +1,3 @@
-import { NavBar } from "@/components/nav-bar"
 import { ReturnBar } from "@/components/return-bar"
 
 interface BoraCodarLayoutProps {
