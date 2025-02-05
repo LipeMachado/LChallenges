@@ -17,4 +17,9 @@ export const BoraCodarProjects = [
     "description": "Card de produto",
     "link": "/bora-codar/desafio-2-card-de-produto"
   },
+  {
+    "title": "Desafio 3",
+    "description": "Tipos de Botões",
+    "link": "/bora-codar/desafio-3-tipos-de-botoes"
+  },
 ]
